@@ -74,8 +74,8 @@ Reach out to me at...
       <sub>Git</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="35" alt="AWS"><br>
-      <sub>AWS</sub>
+<!--       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="35" alt="AWS"><br>
+      <sub>AWS</sub> -->
     </td>
     <td align="center" width="25%">
       </td>
