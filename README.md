@@ -14,7 +14,9 @@ Ask me anything about...
 <br/>
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Blackmaskexe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-<div style="clear: both;"></div> #### Languages
+<div style="clear: both;"></div>
+
+#### Languages
 <table>
   <tr>
     <td align="center" width="25%">
