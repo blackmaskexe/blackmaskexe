@@ -1,5 +1,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
-## Hey, I'm [Blackmask!](https://www.prathamsnehi.com) 👋 <img src="https://komarev.com/ghpvc/?username=Blackmaskexe&label=Views&color=blue&style=plastic" alt="Blackmaskexe" />
+
+## Hey, I'm [Blackmask](https://www.prathamsnehi.com) 👋 <img src="https://komarev.com/ghpvc/?username=Blackmaskexe&label=Views&color=blue&style=plastic" alt="Blackmaskexe" />
+
 A passionate Mobile and Full Stack Developer from Earth. I love building innovative applications and bringing ideas to life. Currently a student, I have 1.5+ years of experience in crafting mobile and web solutions.
 <br/>
 <br/>
