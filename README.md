@@ -10,13 +10,6 @@ Ask me anything about...
 
 <img src='https://img.shields.io/badge/React_Native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB' height='25'/> <img src='https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white' height='25'/> <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' height='25'/> <img src='https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB' height='25'/> <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' height='25'/> <img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white' height='25'/> <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' height='25'/> <img src='https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white' height='25'/>
 
-
-Reach out to me at...
-<a href="YOUR_TWITTER_LINK"> <img align="left" alt="Pratham's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a><a href="YOUR_LINKEDIN_LINK"> <img align="left" alt="Pratham's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><a href="YOUR_INSTAGRAM_LINK"> <img align="left" alt="Pratham's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a><a href="YOUR_FACEBOOK_LINK"> <img align="left" alt="Pratham's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 <br/>
 <br/>
 <br/>
