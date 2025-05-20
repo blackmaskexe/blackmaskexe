@@ -23,56 +23,64 @@ Reach out to me at...
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Blackmaskexe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
 #### Languages
-<div style="display: flex; flex-wrap: wrap; justify-content: start;">
-  <div style="text-align: center; margin: 5px; width: 90px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35" alt="JavaScript"><br>
-    <sub>JavaScript</sub>
-  </div>
-  <div style="text-align: center; margin: 5px; width: 90px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" alt="Python"><br>
-    <sub>Python</sub>
-  </div>
-  <div style="text-align: center; margin: 5px; width: 90px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="35" alt="HTML5"><br>
-    <sub>HTML5</sub>
-  </div>
-  <div style="text-align: center; margin: 5px; width: 90px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="35" alt="CSS3"><br>
-    <sub>CSS3</sub>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35" alt="JavaScript"><br>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" alt="Python"><br>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="35" alt="HTML5"><br>
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="35" alt="CSS3"><br>
+      <sub>CSS3</sub>
+    </td>
+  </tr>
+</table>
 
 #### Tools and Frameworks
-<div style="display: flex; flex-wrap: wrap; justify-content: start;">
-  <div style="text-align: center; margin: 5px; width: 90px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="35"><br>
-    <sub>React</sub>
-  </div>
-  <div style="text-align: center; margin: 5px; width: 90px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="35"><br>
-    <sub>Node.js</sub>
-  </div>
-  <div style="text-align: center; margin: 5px; width: 90px;">
-    <img src="https://api.iconify.design/simple-icons/express.svg?color=white" height="35" alt="Express.js"><br>
-    <sub>Express.js</sub>
-  </div>
-  <div style="text-align: center; margin: 5px; width: 90px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" height="35" alt="Android"><br>
-    <sub>Android</sub>
-  </div>
-  <div style="text-align: center; margin: 5px; width: 90px;">
-    <img src="https://api.iconify.design/simple-icons/apple.svg?color=white" height="35" alt="iOS"><br>
-    <sub>iOS</sub>
-  </div>
-  <div style="text-align: center; margin: 5px; width: 90px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="35" alt="Git"><br>
-    <sub>Git</sub>
-  </div>
-  <div style="text-align: center; margin: 5px; width: 90px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="35" alt="AWS"><br>
-    <sub>AWS</sub>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="35"><br>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="35"><br>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/simple-icons/express.svg?color=white" height="35" alt="Express.js"><br>
+      <sub>Express.js</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" height="35" alt="Android"><br>
+      <sub>Android</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/simple-icons/apple.svg?color=white" height="35" alt="iOS"><br>
+      <sub>iOS</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="35" alt="Git"><br>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="35" alt="AWS"><br>
+      <sub>AWS</sub>
+    </td>
+    <td align="center" width="25%">
+      </td>
+  </tr>
+</table>
 <br/>
 <br/>
 
