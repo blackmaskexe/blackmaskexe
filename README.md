@@ -14,8 +14,7 @@ Ask me anything about...
 <br/>
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Blackmaskexe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-
-#### Languages
+<div style="clear: both;"></div> #### Languages
 <table>
   <tr>
     <td align="center" width="25%">
@@ -67,9 +66,7 @@ Ask me anything about...
       <sub>Git</sub>
     </td>
     <td align="center" width="25%">
-<!--       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="35" alt="AWS"><br>
-      <sub>AWS</sub> -->
-    </td>
+      </td>
     <td align="center" width="25%">
       </td>
   </tr>
@@ -80,8 +77,7 @@ Ask me anything about...
 <a href="https://github.com/Blackmaskexe">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackmaskexe&theme=light&hide_langs_below=1" />
 </a>
-
-- 🔭 I’m currently working on exciting mobile and web projects, including **GainsChat (iOS)** and **HabitMentor AI (iOS & Android)**.
+<div style="clear: both;"></div> - 🔭 I’m currently working on exciting mobile and web projects, including **GainsChat (iOS)** and **HabitMentor AI (iOS & Android)**.
 - 🌱 I’m always learning and expanding my skills in React Native, cloud technologies (including AWS), and AI-driven development.
 - 👯 I’m looking to collaborate on innovative mobile or full-stack projects.
 - 🤔 I’m looking for help with [Mention something specific if you have it, e.g., "optimizing AI algorithms for HabitMentor" or keep it general "new challenges in mobile dev"].
