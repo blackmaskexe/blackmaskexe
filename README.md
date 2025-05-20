@@ -1,9 +1,8 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
-## Hey, I'm [YOUR_NAME!](YOUR_PORTFOLIO_LINK_OR_GITHUB_PROFILE_LINK) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Views&color=blue&style=plastic" alt="YOUR_GITHUB_USERNAME" /> </a>
+## Hey, I'm [Blackmask!](https://www.prathamsnehi.com) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=Blackmaskexe&label=Views&color=blue&style=plastic" alt="Blackmaskexe" /> </a>
 
-A passionate Mobile and Full Stack Developer from [Your Location, e.g., "Planet Earth" or more specific if you like]. I love building innovative applications and bringing ideas to life. Currently a student, I have 1.5+ years of experience in crafting mobile and web solutions.
+A passionate Mobile and Full Stack Developer from Earth. I love building innovative applications and bringing ideas to life. Currently a student, I have 1.5+ years of experience in crafting mobile and web solutions.
 <br/>
-I'm an AWS Certified Cloud Practitioner.
 <br/>
 <br/>
 Ask me anything about...
@@ -12,20 +11,15 @@ Ask me anything about...
 
 
 Reach out to me at...
-
-<a href="YOUR_TWITTER_LINK">
-  <img align="left" alt="Your Name's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a><a href="YOUR_LINKEDIN_LINK">
-  <img align="left" alt="Your Name's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><a href="YOUR_INSTAGRAM_LINK">
-  <img align="left" alt="Your Name's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a><a href="YOUR_FACEBOOK_LINK">
-  <img align="left" alt="Your Name's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="YOUR_TWITTER_LINK"> <img align="left" alt="Pratham's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a><a href="YOUR_LINKEDIN_LINK"> <img align="left" alt="Pratham's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a><a href="YOUR_INSTAGRAM_LINK"> <img align="left" alt="Pratham's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a><a href="YOUR_FACEBOOK_LINK"> <img align="left" alt="Pratham's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
 <br/>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Blackmaskexe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
 #### Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35" alt="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -45,16 +39,15 @@ Reach out to me at...
 <br/>
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=light&hide_langs_below=1" />
+<a href="https://github.com/Blackmaskexe">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackmaskexe&theme=light&hide_langs_below=1" />
 </a>
 
 - 🔭 I’m currently working on exciting mobile and web projects, including **GainsChat (iOS)** and **HabitMentor AI (iOS & Android)**.
-- 🌱 I’m always learning and expanding my skills in React Native, cloud technologies, and AI-driven development.
+- 🌱 I’m always learning and expanding my skills in React Native, cloud technologies (including AWS), and AI-driven development.
 - 👯 I’m looking to collaborate on innovative mobile or full-stack projects.
 - 🤔 I’m looking for help with [Mention something specific if you have it, e.g., "optimizing AI algorithms for HabitMentor" or keep it general "new challenges in mobile dev"].
-- 💬 Ask me about mobile development (iOS & Android with React Native), full-stack development (React, Node.js, Express.js), Python, or cloud solutions with AWS.
-- 📫 How to reach me: YOUR_EMAIL@example.com
+- 💬 Ask me about mobile development (iOS & Android with React Native), full-stack development (React, Node.js, Express.js), Python, or cloud solutions.
 - ⚡ Fun fact: [Your Fun Fact Here - e.g., "I can solve a Rubik's cube in under 2 minutes!" or "I believe pineapple belongs on pizza."]
 
 <br/>
@@ -67,7 +60,3 @@ Reach out to me at...
 
 <br/>
 <br/>
-
-### 🐦 Latest Tweet
-Follow my latest thoughts on [Your Twitter Profile Link Here]!
-<br><br>
