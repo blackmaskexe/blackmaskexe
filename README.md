@@ -22,25 +22,3 @@ A passionate Mobile and Full Stack Developer from Earth. I love building innovat
   <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' height='28' alt='Python'/>
   <img src='https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white' height='28' alt='AWS'/>
 </div>
-
----
-
-### 🛠️ My Tech Stack
-
-#### Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" title="Python">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3">&nbsp;&nbsp;&nbsp;
-</p>
-
-#### Tools and Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" title="React">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" title="Node.js">&nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/express.svg?color=white" height="40" alt="Express.js" title="Express.js">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" height="40" alt="Android" title="Android">&nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons/apple.svg?color=white" height="40" alt="iOS Development (Apple)" title="iOS Development (Apple)">&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git" title="Git">&nbsp;&nbsp;&nbsp;
-</p>
