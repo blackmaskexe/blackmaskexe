@@ -1,7 +1,3 @@
-## Hey, I'm [Blackmask](https://www.prathamsnehi.com) 👋 <img src="https://komarev.com/ghpvc/?username=Blackmaskexe&label=Views&color=blue&style=plastic" alt="Blackmaskexe Profile Views" />
-
-A passionate Mobile and Full Stack Developer from Earth. I love building innovative applications and bringing ideas to life. Currently a student, I have 1.5+ years of experience in crafting mobile and web solutions.
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Blackmaskexe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&cache_seconds=1800" alt="Blackmaskexe GitHub Stats" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackmaskexe&layout=compact&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&cache_seconds=1800" alt="Blackmaskexe Top Languages" width="330"/>
