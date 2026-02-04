@@ -1,6 +1,20 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blackmaskexe&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&cache_seconds=1800" alt="Blackmaskexe GitHub Stats" width="400"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackmaskexe&layout=compact&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&cache_seconds=1800" alt="Blackmaskexe Top Languages" width="330"/>
+<div align="left">
+  <p>
+    Hello there human! I'm a computer science student that loves to build solutions that start as small as solving problems that I face (personalized habit tracking, ai workout coach) to creating a positive impact on the community (Remi: Memory Bank for Dementia Patients)
+  </p>
+
+  <h3>What am I currently working on:</h3>
+  <ul>
+    <li>learning native iOS Development (Swift, SwiftUI, and other surrounding Apple APIs)</li>
+    <li>working (very hard) on developing Remi (Memory Bank for Dementia Patients, an iOS application)</li>
+    <li>definitely not procrastinating (trust me bro)</li>
+    <li>leetcode 💀</li>
+    <li>looking for as many learning opportunities as I can</li>
+  </ul>
+
+  <p>
+    If you would like to reach out, or would like to try Remi in beta, please reach out @ <a href="mailto:contact@prathamsnehi.com">contact@prathamsnehi.com</a>
+  </p>
 </div>
 
 ---
