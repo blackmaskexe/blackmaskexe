@@ -1,6 +1,6 @@
 <div align="left">
   <p>
-    Hello there human! I'm a computer science student that loves to build solutions that start as small as solving problems that I face (personalized habit tracking, ai workout coach) to creating a positive impact on the community (Remi: Memory Bank for Dementia Patients)
+    Hello there! I'm a computer science student that loves to build solutions that start as small as solving problems that I face (personalized habit tracking, ai workout coach) to creating a positive impact on the community (Remi: Memory Bank for Dementia Patients)
   </p>
 
   <h3>What am I currently working on:</h3>
